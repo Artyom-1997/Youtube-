@@ -1,0 +1,28 @@
+﻿class User
+    def __init__(self, nickname,password,age):
+        self.nickname = nickname ("Artyom")
+        self.password = password ("I was born in Moscow 2 000")
+        self.age = age (24)
+    class Video
+        def  __init__(self,title,duration, time_now, adult_mode):
+            self. title = title ("В мире животных")
+            self.duration = duration ( "45 секунд")
+            self.time_now = time_now ("2 секунда")
+            self.adult_mode = adult_mode ("Возрастное ограничение 6+")
+            Video = title, duration, time_now, adult_mode
+            video.add
+            print("video")
+        class Urtube
+        def __init__(self,users,videoes,current_user):
+            def log_in ( nickname, password)
+                register = nickname, password, age
+                lower_register = register.low
+            print("Пользователь {nickname} уже существует ")
+        def log_out ("None")
+            print("Сброс текущего пользователя None")
+        get_videos (self):
+        print (f  "self.duration")
+        watch_video
+    print(f "В мире животных")
+    print(f "Войдите в аккаунт,чтобы посмотреть видео")
+    print (f "Конец видео")
